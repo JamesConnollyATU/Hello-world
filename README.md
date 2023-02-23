@@ -1,2 +1,4 @@
 # My first repo
-This is my first repo. That's why I've called this repo "Hello world"!
+Hi everyone,
+
+James Connolly here. I'm so impressed with GitHub.
